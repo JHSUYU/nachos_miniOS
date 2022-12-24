@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="8eb041bd-42fe-4bde-bc7d-38ba07e151b3" name="cs120fa22ap@ieng6.ucsd.edu">
+        <fileTransfer rootFolder="/home/linux/ieng6/cs120fa22/cs120fa22ap" accessType="SFTP" host="128.54.70.238" port="22" sshConfigId="dc5b4c30-451a-44ae-843d-81abfac8968e" sshConfig="cs120fa22ap@128.54.70.238:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

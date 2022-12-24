@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="cs120fa22ap@ieng6.ucsd.edu" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="cs120fa22ap@ieng6.ucsd.edu">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/nachos_fa22_BravoNathan_JHSUYU_flytowns/nachos" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
